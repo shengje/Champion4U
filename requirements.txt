@@ -107,3 +107,4 @@ Werkzeug==0.14.1
 widgetsnbextension==3.4.2
 wrapt==1.10.11
 xgboost==0.81
+gunicorn==19.7.1
