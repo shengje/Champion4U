@@ -70,7 +70,7 @@ pickleshare==0.7.5
 ply==3.11
 prometheus-client==0.4.2
 prompt-toolkit==2.0.7
-protobuf==3.6.1
+protobuf==3.18.3
 ptyprocess==0.6.0
 Pygments==2.2.0
 pylint==2.1.1
